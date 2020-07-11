@@ -66908,7 +66908,7 @@ __webpack_require__.r(__webpack_exports__);
 //const url = 'https://walletapplicationjlmartinmx.com'
 //const url = 'http://127.0.0.1:8000'
 //const url = 'http://localhost:8000'
-var url = 'https://walletapplicationjlmartinmx.herokuapp.com/';
+var url = 'https://walletapplicationjlmartinmx.herokuapp.com';
 /* harmony default export */ __webpack_exports__["default"] = (url);
 
 /***/ }),
